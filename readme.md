@@ -6,7 +6,7 @@
 laravelのTodoアプリ
 
 ## DEMOアカウント
-USER: laraveltodo@example.com
-PASS: password
+USER: laraveltodo@example.com  
+PASS: password  
 
 <img src="./resources/img/img.png">
